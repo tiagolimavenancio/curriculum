@@ -1,4 +1,4 @@
-# Tiago Lima | Front & Mobile Developer
+# Tiago Lima | Full-Stack & Mobile Developer
 ## Fortaleza/CE - Brazil
 
 ---
