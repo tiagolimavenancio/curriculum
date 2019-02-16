@@ -75,9 +75,6 @@
 ## Additional informations
 
 * Languages (Portuguese & English)
-* 
-* 
-* 
 
 ---
 
