@@ -63,7 +63,7 @@
 
 **Experiences:**
 * As mobile developer, I have worked with the development of mobile applications in iOS.
-* As cross-plataform developer, I have worked with the development of mobile applications usign React Native, Expo, Native Base and Redux.
+* As cross-plataform developer, I have worked with the development of mobile applications usign React Native, Expo, Native Base, Redux and Firebase.
 * As game developer, I have worked with the development of games using SpriteKit Framework.
 * As back-end developer, I have worked on projects using Ruby on Rails.
 * As front-end developer, I have worked on projects using VueJS, Vuetify and Vuex.
