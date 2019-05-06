@@ -61,7 +61,11 @@
 * MacOS & Linux (Commands, Terminal)
 
 
-**Experiences:**
+
+---
+
+## Experiences
+
 * As mobile developer, I have worked with the development of mobile applications in iOS.
 * As cross-plataform developer, I have worked with the development of mobile applications usign React Native, Expo, Native Base, Redux and Firebase.
 * As game developer, I have worked with the development of games using SpriteKit Framework.
@@ -76,6 +80,7 @@
 ## Additional informations
 
 * Languages (Portuguese & English)
+
 
 ---
 
