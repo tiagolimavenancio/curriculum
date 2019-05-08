@@ -64,15 +64,50 @@
 
 ---
 
-## Experiences
+## Education & Formation
 
-* As mobile developer, I have worked with the development of mobile applications in iOS.
-* As cross-plataform developer, I have worked with the development of mobile applications usign React Native, Expo, Native Base, Redux and Firebase.
-* As game developer, I have worked with the development of games using SpriteKit Framework.
-* As back-end developer, I have worked on projects using Ruby on Rails.
-* As front-end developer, I have worked on projects using VueJS, Vuetify and Vuex.
-* As full-stack developer, I have worked with VueJS, Express, NodeJS and MongoDB.
+* **Bachelor’s Degree** - Systems Analyst (FLF - Faculdade Lourenço Filho: Fortaleza - CE/Brazil)
+* **Post-Graduated Degree** - Specialist in Systems Development for Mobile Devices (UNI7 - Universidade 7 de Setembro: Fortaleza - CE/Brazil)
 
+
+---
+
+
+## Professional Experience
+* **Back-End Developer of Lampp-IT Solutions (https://www.lampp-it.com.br/), developed with Ruby on Rails (2019)
+* **Full-Stack Developer of Laboratorio de Mídias Educacionais (http://lme.ufc.br/), developed with VueJS, ExpressJS, NodeJS and MongoDB (2018)**
+* **Front-End Developer of Laboratório de Mídias Educacionais (http://lme.ufc.br/), developed with VueJS, Vuetify, Vuex and Firebase (2018)**
+* **Cross-Platform Developer of Laboratório de Mídias Educacionais (http://lme.ufc.br/), developed with React Native, Native Base, Expo and Redux (2017)**
+* **Back-End Developer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), developed with Ruby on Rails (2015)**
+* **Software Engineer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), with Design Patterns and Agile Methodologies (2014)**
+* **Game Developer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), developed with SpriteKit Framework (2011)**
+* **Senior Developer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), developed in iOS Platform (2009)**
+
+
+
+---
+
+
+
+## Accomplishments
+
+* [App Aedes em Foco](https://itunes.apple.com/br/app/aedes-em-foco-lme/id1146901883?l=en&mt=8) of Laboratório de Mídias Educacionais (2018)
+* 
+* 
+* 
+* 
+* 
+
+
+---
+
+## Courses
+
+* Build Web Apps with Vue JS 2 & Firebase in Udemy (2018)
+* Vue JS Essentials with Vuex and Vue Router in Udemy (2018)
+* The Complete Ruby on Rails Developer Course in Udemy (2015)
+* Learn Ruby on Rails from Scratch in Udemy (2015)
+* The Complete iOS 11 Developer Course Beginner To Advanced in Udemy (2014)
 
 
 ---
@@ -82,22 +117,6 @@
 * Languages (Portuguese & English)
 
 
----
-
-## Professional Experience
-* **Full-Stack Developer of Laboratorio de Mídias Educacionais (http://lme.ufc.br/), developed with VueJS, ExpressJS, NodeJS and MongoDB (2018)**
-* **Front-End Developer of Laboratorio de Mídias Educacionais (http://lme.ufc.br/), developed with VueJS, Vuetify, Vuex and Firebase (2018)**
-* **Cross-Platform Developer of Laboratorio de Mídias Educacionais (http://lme.ufc.br/), developed with React Native, Native Base, Expo and Redux (2017)**
-* **Back-End Developer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), developed with Ruby on Rails (2015)**
-* **Software Engineer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), with Design Patterns and Agile Methodologies (2014)**
-* **Game Developer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), developed with SpriteKit Framework (2011)**
-* **Senior Developer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), developed in iOS Platform (2009)**
 
 
----
-
-## Education & Formation
-
-* **Bachelor’s Degree** - Systems Analyst (FLF - Faculdade Lourenço Filho: Fortaleza - CE/Brazil)
-* **Post-Graduated Degree** - Specialist in Systems Development for Mobile Devices (UNI7 - Universidade 7 de Setembro: Fortaleza - CE/Brazil)
 
