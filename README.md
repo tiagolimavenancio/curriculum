@@ -74,14 +74,14 @@
 
 
 ## Professional Experience
-* **Back-End Developer of Lampp-IT Solutions (https://www.lampp-it.com.br/), developed with Ruby on Rails (2019)
-* **Full-Stack Developer of Laboratorio de Mídias Educacionais (http://lme.ufc.br/), developed with VueJS, ExpressJS, NodeJS and MongoDB (2018)**
-* **Front-End Developer of Laboratório de Mídias Educacionais (http://lme.ufc.br/), developed with VueJS, Vuetify, Vuex and Firebase (2018)**
-* **Cross-Platform Developer of Laboratório de Mídias Educacionais (http://lme.ufc.br/), developed with React Native, Native Base, Expo and Redux (2017)**
-* **Back-End Developer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), developed with Ruby on Rails (2015)**
-* **Software Engineer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), with Design Patterns and Agile Methodologies (2014)**
-* **Game Developer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), developed with SpriteKit Framework (2011)**
-* **Senior Developer of Universidade Federal do Ceará Virtual (http://portal.virtual.ufc.br/), developed in iOS Platform (2009)**
+* **Back-End Developer of [Lampp-IT Solutions](https://www.lampp-it.com.br/), developed with Ruby on Rails (2019)
+* **Full-Stack Developer of [Laboratorio de Mídias Educacionais](http://lme.ufc.br/), developed with VueJS, ExpressJS, NodeJS and MongoDB (2018)**
+* **Front-End Developer of [Laboratório de Mídias Educacionais](http://lme.ufc.br/), developed with VueJS, Vuetify, Vuex and Firebase (2018)**
+* **Cross-Platform Developer of [Laboratório de Mídias Educacionais](http://lme.ufc.br/), developed with React Native, Native Base, Expo and Redux (2017)**
+* **Back-End Developer of [Universidade Federal do Ceará Virtual](http://portal.virtual.ufc.br/), developed with Ruby on Rails (2015)**
+* **Software Engineer of [Universidade Federal do Ceará Virtual](http://portal.virtual.ufc.br/), with Design Patterns and Agile Methodologies (2014)**
+* **Game Developer of [Universidade Federal do Ceará Virtual](http://portal.virtual.ufc.br/), developed with SpriteKit Framework (2011)**
+* **Senior Developer of [Universidade Federal do Ceará Virtual](http://portal.virtual.ufc.br/), developed in iOS Platform (2009)**
 
 
 
@@ -91,12 +91,16 @@
 
 ## Accomplishments
 
-* [App Aedes em Foco](https://itunes.apple.com/br/app/aedes-em-foco-lme/id1146901883?l=en&mt=8) of Laboratório de Mídias Educacionais (2018)
-* 
-* 
-* 
-* 
-* 
+* [App Aedes em Foco](https://itunes.apple.com/br/app/aedes-em-foco-lme/id1146901883?l=en&mt=8) developed in Laboratório de Mídias Educacionais (2018)
+* [App Solar Mobilis](https://itunes.apple.com/br/app/solar-mobilis/id1213025314?l=en&mt=8) developed in UFC Virtual (2012)
+* [App Digital Class](https://itunes.apple.com/br/app/digital-class/id1199107757?l=en&mt=8) developed in UFC Virtual (2016)
+* App Translation with OCR developed in UFC Virtual (2011) 
+* App Money Connect developed in UFC Virtual (2010) 
+* [App Food Troopers](http://tribunadoceara.uol.com.br/noticias/tecnologia/cearenses-criam-aplicativo-com-informacoes-sobre-food-trucks-de-fortaleza/) (2015)
+* [Web Application Dark Stories](http://dark-stories.herokuapp.com/) (2017)
+* Game App Sky Soldiers (2015)
+* Game App Plantz (2014)
+* Game App Collapse FreeSpace (2013)
 
 
 ---
