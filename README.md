@@ -74,7 +74,7 @@
 
 
 ## Professional Experience
-* **Back-End Developer of [Lampp-IT Solutions](https://www.lampp-it.com.br/), developed with Ruby on Rails (2019)
+* **Back-End Developer of [Lampp-IT Solutions](https://www.lampp-it.com.br/), developed with Ruby on Rails (2019)**
 * **Full-Stack Developer of [Laboratorio de Mídias Educacionais](http://lme.ufc.br/), developed with VueJS, ExpressJS, NodeJS and MongoDB (2018)**
 * **Front-End Developer of [Laboratório de Mídias Educacionais](http://lme.ufc.br/), developed with VueJS, Vuetify, Vuex and Firebase (2018)**
 * **Cross-Platform Developer of [Laboratório de Mídias Educacionais](http://lme.ufc.br/), developed with React Native, Native Base, Expo and Redux (2017)**
