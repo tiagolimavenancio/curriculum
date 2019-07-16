@@ -38,6 +38,7 @@
 * PostgreSQL
 * Firebase
 * MongoDB
+* DynamoDB
 
 **Package Manager:**
 * cocoapods
