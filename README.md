@@ -19,7 +19,7 @@
 **Mobile:**
 * Mobile Application Development for the iOS Platform (Objective-C & Swift) 
 * Frameworks iOS (UIKit, SpriteKit, Core Image, ARKit, Core Graphics and many others...)
-* React Native (Expo, Native Base & Redux)
+* React Native (Expo, Native Base, Redux, React Navigation, Styled Components)
 
 
 **Front-End:**
