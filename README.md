@@ -37,8 +37,8 @@
 * SQLite
 * PostgreSQL
 * Firebase
+* AWS Amplify
 * MongoDB
-* DynamoDB
 
 **Package Manager:**
 * cocoapods
