@@ -36,7 +36,7 @@
 * MySQL
 * SQLite
 * PostgreSQL
-* Firebase
+* Firebase and Firestore
 * AWS Amplify
 * MongoDB
 
@@ -54,7 +54,7 @@
 * Amazon Web Services
 * Heroku
 * Design Patterns (MVC Model & Gang of Four)
-* Version Control System (GIT)
+* Version Control System (Git)
 * Git Flow
 * GraphQL
 * Design & Software Architecture Knowledge
