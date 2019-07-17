@@ -56,6 +56,7 @@
 * Design Patterns (MVC Model & Gang of Four)
 * Version Control System (GIT)
 * Git Flow
+* GraphQL
 * Design & Software Architecture Knowledge
 * Kanban, XP & Scrum
 * Basic Principles of Graphic Design (UI, UX, IXD & HCI)
