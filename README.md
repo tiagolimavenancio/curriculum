@@ -101,7 +101,7 @@
 * Game App Plantz (2014)
 * Game App Collapse FreeSpace (2013)
 * [App Solar Mobilis](https://itunes.apple.com/br/app/solar-mobilis/id1213025314?l=en&mt=8) developed in UFC Virtual (2012)
-* [App Semove](https://www.aplicativosandroid.com/aplicativo-semove-uma-rede-social-que-ajuda-na-seguranca/) developed in UFC Virtual (2012)
+* [App Semove](https://play.google.com/store/apps/details?id=com.semove) developed in UFC Virtual (2012)
 * App Translation with OCR developed in UFC Virtual (2011) 
 * App Money Connect developed in UFC Virtual (2010) 
 
