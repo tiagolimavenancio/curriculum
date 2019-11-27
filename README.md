@@ -18,27 +18,44 @@
 
 **Mobile:**
 * Mobile Application Development for the iOS Platform (Objective-C & Swift) 
-* Frameworks iOS (UIKit, SpriteKit, Core Image, ARKit, Core Graphics and many others...)
-* React Native (Expo, Native Base, Redux, React Navigation, Styled Components, Hooks)
-
-
+* React Native 
+  - CLI
+  - Expo
+  - Redux
+  - Native Base
+  - React Navigation & Router Flux
+  - Styled Components
+  - Hooks
+  - Code Push
+  - Sentry
+  - Debounce
+  
+  
 **Front-End:**
 * HTML5 & CSS3
-* VueJS & ReactJS (Bootstrap, Vuetify & Vuex)
+* ReactJS
+* VueJS
+  - Vuex
+  - Vuetify
 
 
 **Back-End:**
 * Ruby on Rails
-* NodeJS (ExpressJS)
+* NodeJS 
+  - Express
+  - Sequelize
+  - ORM
+  - JWT
+  - Websockets
 
 
 **Databases:**
-* MySQL
 * SQLite
 * PostgreSQL
-* Firebase and Firestore
-* AWS Amplify
+* Firebase & Firestore
 * MongoDB
+* AWS Amplify
+
 
 **Package Manager:**
 * cocoapods
