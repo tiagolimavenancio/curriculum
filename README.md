@@ -1,4 +1,4 @@
-# Tiago Lima | Full-Stack & Mobile Developer
+# Tiago Lima | FullStack & Mobile Developer
 ## Fortaleza/CE - Brazil
 
 ---
@@ -86,8 +86,8 @@
 
 ## Education & Formation
 
-* **Bachelor’s Degree** - Systems Analyst (FLF - Faculdade Lourenço Filho: Fortaleza - CE/Brazil)(2011)
-* **Post-Graduated Degree** - Specialist in Systems Development for Mobile Devices (UNI7 - Universidade 7 de Setembro: Fortaleza - CE/Brazil)(2016)
+* **Bachelor’s Degree** - Systems Analyst (FLF - Faculdade Lourenço Filho: Fortaleza - CE/Brazil) (2011)
+* **Post-Graduated Degree** - Specialist in Systems Development for Mobile Devices (UNI7 - Universidade 7 de Setembro: Fortaleza - CE/Brazil) (2016)
 
 
 ---
