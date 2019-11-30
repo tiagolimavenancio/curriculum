@@ -94,7 +94,7 @@
 
 
 ## Professional Experience
-* **Frontend Developer of [IntellGest - Inteligência e Gestão Tecnológica](https://www.linkedin.com/company/intellgest/), developed with React Native, CLI, Expo, Redux, Hooks, Styled Components, Higher-Order Components (2019) 
+* **Frontend Developer of [IntellGest - Inteligência e Gestão Tecnológica](https://www.linkedin.com/company/intellgest/), developed with React Native, CLI, Expo, Redux, Hooks, Styled Components, Higher-Order Components (2019)** 
 * **Backend Developer of [Lampp-IT Solutions](https://www.lampp-it.com.br/), developed with Ruby on Rails (2019)**
 * **FullStack Developer of [Laboratorio de Mídias Educacionais - LME](http://lme.ufc.br/), developed with VueJS, ExpressJS, NodeJS and MongoDB (2018)**
 * **Frontend Developer of [Laboratório de Mídias Educacionais - LME](http://lme.ufc.br/), developed with VueJS, Vuetify, Vuex and Firebase (2018)**
