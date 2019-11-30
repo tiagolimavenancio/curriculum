@@ -98,7 +98,7 @@
 * **Backend Developer of [Lampp-IT Solutions](https://www.lampp-it.com.br/), developed with Ruby on Rails (2019)**
 * **FullStack Developer of [Laboratorio de Mídias Educacionais - LME](http://lme.ufc.br/), developed with VueJS, ExpressJS, NodeJS and MongoDB (2018)**
 * **Frontend Developer of [Laboratório de Mídias Educacionais - LME](http://lme.ufc.br/), developed with VueJS, Vuetify, Vuex and Firebase (2018)**
-* **CrossPlatform Developer of [Laboratório de Mídias Educacionais - LME](http://lme.ufc.br/), developed with React Native, Native Base, Expo and Redux (2017)**
+* **Frontend Developer of [Laboratório de Mídias Educacionais - LME](http://lme.ufc.br/), developed with React Native, Native Base, Expo and Redux (2017)**
 * **Backend Developer of [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), developed with Ruby on Rails (2015)**
 * **Software Engineer of [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), with Design Patterns and Agile Methodologies (2014)**
 * **Game Developer of [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), developed with SpriteKit Framework (2011)**
