@@ -141,7 +141,9 @@
 
 ## Additional informations
 
-* Languages English
+* Languages 
+  - Portuguese
+  - English
 
 
 
