@@ -29,6 +29,7 @@
   - Code Push
   - Sentry
   - Debounce
+  - Higher-Order Components
   
   
 **Front-End:**
@@ -140,7 +141,7 @@
 
 ## Additional informations
 
-* Languages (Portuguese & English)
+* Languages English
 
 
 
