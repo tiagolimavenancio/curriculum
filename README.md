@@ -44,10 +44,10 @@
 * Ruby on Rails
 * NodeJS 
   - Express
-  - Sequelize
-  - ORM
+  - Sequelize ORM
   - JWT
   - Websockets
+  - Mongoose
 
 
 **Databases:**
@@ -86,22 +86,23 @@
 
 ## Education & Formation
 
-* **Bachelor’s Degree** - Systems Analyst (FLF - Faculdade Lourenço Filho: Fortaleza - CE/Brazil)
-* **Post-Graduated Degree** - Specialist in Systems Development for Mobile Devices (UNI7 - Universidade 7 de Setembro: Fortaleza - CE/Brazil)
+* **Bachelor’s Degree** - Systems Analyst (FLF - Faculdade Lourenço Filho: Fortaleza - CE/Brazil)(2011)
+* **Post-Graduated Degree** - Specialist in Systems Development for Mobile Devices (UNI7 - Universidade 7 de Setembro: Fortaleza - CE/Brazil)(2016)
 
 
 ---
 
 
 ## Professional Experience
-* **Back-End Developer of [Lampp-IT Solutions](https://www.lampp-it.com.br/), developed with Ruby on Rails (2019)**
-* **Full-Stack Developer of [Laboratorio de Mídias Educacionais](http://lme.ufc.br/), developed with VueJS, ExpressJS, NodeJS and MongoDB (2018)**
-* **Front-End Developer of [Laboratório de Mídias Educacionais](http://lme.ufc.br/), developed with VueJS, Vuetify, Vuex and Firebase (2018)**
-* **Cross-Platform Developer of [Laboratório de Mídias Educacionais](http://lme.ufc.br/), developed with React Native, Native Base, Expo and Redux (2017)**
-* **Back-End Developer of [Universidade Federal do Ceará Virtual](http://portal.virtual.ufc.br/), developed with Ruby on Rails (2015)**
-* **Software Engineer of [Universidade Federal do Ceará Virtual](http://portal.virtual.ufc.br/), with Design Patterns and Agile Methodologies (2014)**
-* **Game Developer of [Universidade Federal do Ceará Virtual](http://portal.virtual.ufc.br/), developed with SpriteKit Framework (2011)**
-* **Senior Developer of [Universidade Federal do Ceará Virtual](http://portal.virtual.ufc.br/), developed in iOS Platform (2009)**
+* **Frontend Developer of [IntellGest - Inteligência e Gestão Tecnológica](https://www.linkedin.com/company/intellgest/), developed with React Native, CLI, Expo, Redux, Hooks, Styled Components, Higher-Order Components (2019) 
+* **Backend Developer of [Lampp-IT Solutions](https://www.lampp-it.com.br/), developed with Ruby on Rails (2019)**
+* **FullStack Developer of [Laboratorio de Mídias Educacionais - LME](http://lme.ufc.br/), developed with VueJS, ExpressJS, NodeJS and MongoDB (2018)**
+* **Frontend Developer of [Laboratório de Mídias Educacionais - LME](http://lme.ufc.br/), developed with VueJS, Vuetify, Vuex and Firebase (2018)**
+* **CrossPlatform Developer of [Laboratório de Mídias Educacionais - LME](http://lme.ufc.br/), developed with React Native, Native Base, Expo and Redux (2017)**
+* **Backend Developer of [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), developed with Ruby on Rails (2015)**
+* **Software Engineer of [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), with Design Patterns and Agile Methodologies (2014)**
+* **Game Developer of [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), developed with SpriteKit Framework (2011)**
+* **Senior Developer of [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), developed in iOS Platform (2009)**
 
 
 
@@ -110,7 +111,7 @@
 
 
 ## Accomplishments
-
+* [IntellGest Legis](https://apps.apple.com/us/app/intellgest-legis/id1478737517?ls=1) developed in IntellGest - Inteligência e Gestão Tecnológica (2019)
 * [Web Application Dark Stories](http://dark-stories.herokuapp.com/) (2017)
 * [App Aedes em Foco](https://itunes.apple.com/br/app/aedes-em-foco-lme/id1146901883?l=en&mt=8) developed in Laboratório de Mídias Educacionais (2017)
 * [App Digital Class](https://itunes.apple.com/br/app/digital-class/id1199107757?l=en&mt=8) developed in UFC Virtual (2016)
