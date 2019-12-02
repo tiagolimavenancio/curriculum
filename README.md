@@ -66,21 +66,19 @@
 
 
 **Others:**
-* Artificial Intelligence
+* Kanban, XP & Scrum
+* Design & Software Architecture Knowledge
+* Design Patterns (MVC Model & Gang of Four)
+* Git & GitFlow
+* Basic Principles of Graphic Design (UI, UX, IXD & HCI)
 * Digital Image Processing (OpenCV)
 * Augmented Reality (Vuforia & ARToolKit)
 * Optical Character Recognition (Tesseract)
-* Amazon Web Services
-* Heroku
-* Design Patterns (MVC Model & Gang of Four)
-* Version Control System (Git)
-* Git Flow
+* Amazon Web Services - AWS
 * GraphQL
-* Design & Software Architecture Knowledge
-* Kanban, XP & Scrum
-* Basic Principles of Graphic Design (UI, UX, IXD & HCI)
+* Artificial Intelligence
+* Deployments on Heroku
 * MacOS & Linux (Commands, Terminal)
-
 
 
 ---
