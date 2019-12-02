@@ -51,6 +51,7 @@
 
 
 **Databases:**
+* MySQL
 * SQLite
 * PostgreSQL
 * Firebase & Firestore
@@ -94,12 +95,12 @@
 
 
 ## Professional Experience
-* **Frontend Developer at [IntellGest - Inteligência e Gestão Tecnológica](https://www.linkedin.com/company/intellgest/), developed with React Native, CLI, Expo, Redux, Hooks, Styled Components, Higher-Order Components (2019)** 
-* **Backend Developer at [Lampp-IT Solutions](https://www.lampp-it.com.br/), developed with Ruby on Rails (2019)**
+* **Front-End Developer at [IntellGest - Inteligência e Gestão Tecnológica](https://www.linkedin.com/company/intellgest/), developed with React Native, CLI, Expo, Redux, Hooks, Styled Components, Higher-Order Components (2019)** 
+* **Back-End Developer at [Lampp-IT Solutions](https://www.lampp-it.com.br/), developed with Ruby on Rails (2019)**
 * **FullStack Developer at [Laboratorio de Mídias Educacionais - LME](http://lme.ufc.br/), developed with VueJS, ExpressJS, NodeJS and MongoDB (2018)**
-* **Frontend Developer at [Laboratório de Mídias Educacionais - LME](http://lme.ufc.br/), developed with VueJS, Vuetify, Vuex and Firebase (2018)**
-* **Frontend Developer at [Laboratório de Mídias Educacionais - LME](http://lme.ufc.br/), developed with React Native, Native Base, Expo and Redux (2017)**
-* **Backend Developer at [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), developed with Ruby on Rails (2015)**
+* **Front-End Developer at [Laboratório de Mídias Educacionais - LME](http://lme.ufc.br/), developed with VueJS, Vuetify, Vuex and Firebase (2018)**
+* **Front-End Developer at [Laboratório de Mídias Educacionais - LME](http://lme.ufc.br/), developed with React Native, Native Base, Expo and Redux (2017)**
+* **Back-End Developer at [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), developed with Ruby on Rails (2015)**
 * **Software Engineer at [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), with Design Patterns and Agile Methodologies (2014)**
 * **Game Developer at [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), developed with SpriteKit Framework (2011)**
 * **Senior Developer at [Universidade Federal do Ceará Virtual - UFC](http://portal.virtual.ufc.br/), developed in iOS Platform (2009)**
