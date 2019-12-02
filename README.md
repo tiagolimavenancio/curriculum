@@ -42,6 +42,7 @@
 
 **Back-End:**
 * Ruby on Rails
+  - Devise (Authentication)
 * NodeJS 
   - Express
   - Sequelize ORM
