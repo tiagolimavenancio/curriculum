@@ -33,7 +33,6 @@
   
   
 **Front-End:**
-* HTML5 & CSS3
 * ReactJS
 * VueJS
   - Vuex
