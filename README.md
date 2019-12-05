@@ -78,6 +78,7 @@
 * GraphQL
 * Artificial Intelligence
 * Deployments on Heroku
+* Deployments on Netlify
 * MacOS & Linux (Commands, Terminal)
 
 
