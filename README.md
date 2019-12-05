@@ -77,8 +77,7 @@
 * Amazon Web Services - AWS
 * GraphQL
 * Artificial Intelligence
-* Deployments on Heroku
-* Deployments on Netlify
+* Deployments on Heroku, Netlify, Firebase, AWS Amplify
 * MacOS & Linux (Commands, Terminal)
 
 
