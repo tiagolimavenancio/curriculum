@@ -70,7 +70,7 @@
 * Design & Software Architecture Knowledge
 * Design Patterns (MVC Model & Gang of Four)
 * Git & GitFlow
-* Basic Principles of Graphic Design (UI, UX, IXD & HCI)
+* Basic Principles of Graphic Design (UI, UX & HCI)
 * Digital Image Processing (OpenCV)
 * Augmented Reality (Vuforia & ARToolKit)
 * Optical Character Recognition (Tesseract)
