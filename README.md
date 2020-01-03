@@ -47,6 +47,8 @@
   - JWT
   - Websockets
   - Mongoose
+  - Nodemon
+  - WebSockets
 
 
 **Databases:**
