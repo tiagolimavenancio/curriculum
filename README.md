@@ -1,4 +1,4 @@
-# Tiago Lima | FrontEnd & BackEnd Developer
+# Tiago Lima | Developer
 ## Fortaleza/CE - Brazil
 
 ---
@@ -9,7 +9,7 @@
 
 **Linkedin:** [https://www.linkedin.com/in/tiago-lima-dev/](https://www.linkedin.com/in/tiago-lima-dev/)
 
-**Skype:** tiagolimavenancio
+**Instagram:** tiago.lima.developer
 
 ---
 
