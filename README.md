@@ -1,4 +1,4 @@
-# Tiago Lima | FullStack & Mobile Developer
+# Tiago Lima | FrontEnd & BackEnd Developer
 ## Fortaleza/CE - Brazil
 
 ---
@@ -48,8 +48,8 @@
   - Websockets
   - Mongoose
   - Nodemon
-  - WebSockets
-
+  
+  
 
 **Databases:**
 * MySQL
