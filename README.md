@@ -44,8 +44,6 @@
 
 
 **Back-End:**
-* Ruby on Rails
-  - Devise 
 * NodeJS 
   - Express
   - Sequelize ORM
@@ -54,7 +52,9 @@
   - Mongoose
   - Nodemon
   - GraphQL
-  
+  - TDD
+* Ruby on Rails
+  - Devise 
   
 
 **Databases:**
