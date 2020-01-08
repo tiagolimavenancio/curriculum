@@ -53,6 +53,7 @@
   - Websockets
   - Mongoose
   - Nodemon
+  - GraphQL
   
   
 
@@ -75,14 +76,12 @@
 **Others:**
 * Kanban, XP & Scrum
 * Design & Software Architecture Knowledge
-* Design Patterns (MVC Model & Gang of Four)
+* Design Patterns (Gang of Four & MVC)
 * Git & GitFlow
 * Basic Principles of Graphic Design (UI, UX & HCI)
 * Digital Image Processing (OpenCV)
 * Augmented Reality (Vuforia & ARToolKit)
 * Optical Character Recognition (Tesseract)
-* Amazon Web Services - AWS
-* GraphQL
 * Artificial Intelligence
 * Deployments on Heroku, Netlify, Firebase, AWS Amplify
 * MacOS & Linux (Commands, Terminal)
