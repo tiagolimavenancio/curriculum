@@ -29,10 +29,15 @@
   - Code Push
   - Sentry
   - Higher-Order Components
+  - TDD
   
   
 **Front-End:**
 * ReactJS
+  - Redux
+  - Hooks
+  - Styled Components
+  - TDD
 * VueJS
   - Vuex
   - Vuetify
