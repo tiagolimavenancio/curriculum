@@ -128,6 +128,7 @@
 
 ## Accomplishments
 * [IntellGest Legis](https://apps.apple.com/us/app/intellgest-legis/id1478737517?ls=1) developed in IntellGest - Inteligência e Gestão Tecnológica (2019)
+* DoCondomínio developed in [Centro de Empreendedorismo da UFC (CEMP)](https://www.linkedin.com/company/cempufc/) (2018)
 * [Web Application Dark Stories](http://dark-stories.herokuapp.com/) (2017)
 * [App Aedes em Foco](https://itunes.apple.com/br/app/aedes-em-foco-lme/id1146901883?l=en&mt=8) developed in Laboratório de Mídias Educacionais (2017)
 * [App Digital Class](https://itunes.apple.com/br/app/digital-class/id1199107757?l=en&mt=8) developed in UFC Virtual (2016)
