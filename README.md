@@ -26,6 +26,7 @@
   - React Navigation & Router Flux
   - Styled Components
   - Hooks
+  - Debounce & Throttle
   - Code Push
   - Sentry
   - Higher-Order Components
