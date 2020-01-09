@@ -72,6 +72,19 @@
 * npm
 * yarn
 
+**ChatBots:**
+* FrontEnd
+  - WhatsApp
+  - Facebook Messenger
+* BackEnd
+  - NodeJS
+* NLP Services
+  - SAP Conversational AI
+  - DialogFlow
+  - IBM Watson Assistant
+* Communication API
+  - Twilio
+
 
 **Others:**
 * Kanban, XP & Scrum
