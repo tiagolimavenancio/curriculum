@@ -11,6 +11,8 @@
 
 **Instagram:** tiago.lima.developer
 
+**Skype:** tiagolimavenancio
+
 ---
 
 ## Skills
