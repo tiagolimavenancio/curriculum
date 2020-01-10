@@ -146,14 +146,15 @@
 
 ## Courses
 
-* NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL) on Udemy (2018)
+* The Complete iOS 11 Developer Course Beginner To Advanced on Udemy (2018)
 * Progressive Web Apps (PWA) - The Complete Guide on Udemy (2018)
-* Build Web Apps with VueJS & Firebase on Udemy (2018)
-* VueJS Essentials with Vuex and Vue Router on Udemy (2018)
-* Accelerated JavaScript Training on Udemy (2017)
-* The Complete Ruby on Rails Developer Course on Udemy (2015)
-* Learn Ruby on Rails from Scratch on Udemy (2015)
-* The Complete iOS 11 Developer Course Beginner To Advanced on Udemy (2014)
+* NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL) on Udemy (2017)
+* Build Web Apps with VueJS & Firebase on Udemy (2017)
+* VueJS Essentials with Vuex and Vue Router on Udemy (2017)
+* Accelerated JavaScript Training on Udemy (2016)
+* The Complete Ruby on Rails Developer Course on Udemy (2014)
+* Learn Ruby on Rails from Scratch on Udemy (2014)
+
 
 
 ---
