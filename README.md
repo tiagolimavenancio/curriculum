@@ -30,7 +30,7 @@
   - Code Push
   - Sentry
   - Higher-Order Components
-  - TDD
+  - Test Driven Development with Jest
   
   
 **Front-End:**
@@ -38,11 +38,11 @@
   - Redux
   - Hooks
   - Styled Components
-  - TDD
+  - Test Driven Development with Jest
 * VueJS
   - Vuex
   - Vuetify
-
+  
 
 **Back-End:**
 * NodeJS 
@@ -53,10 +53,10 @@
   - Mongoose
   - Nodemon
   - GraphQL
-  - TDD
+  - Test Driven Development with Jest
 * Ruby on Rails
   - Devise 
-  
+  - Test Driven Development with RSpec
 
 **Databases:**
 * MySQL
