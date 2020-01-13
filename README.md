@@ -9,7 +9,7 @@
 
 **Linkedin:** [https://www.linkedin.com/in/tiago-lima-dev/](https://www.linkedin.com/in/tiago-lima-dev/)
 
-**Instagram:** tiago.lima.developer
+**Instagram:** @tiago.lima.developer
 
 **Skype:** tiagolimavenancio
 
