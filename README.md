@@ -19,7 +19,7 @@
 
 
 **Mobile:**
-* Mobile Application Development for the iOS Platform (Objective-C & Swift) 
+* iOS Platform (Objective-C & Swift) 
 * React Native 
   - CLI
   - Expo
@@ -44,13 +44,13 @@
 * VueJS
   - Vuex
   - Vuetify
-  
+  - Test Driven Development with Jest
 
 **Back-End:**
 * NodeJS 
   - Express
-  - Sequelize ORM
   - JWT
+  - Sequelize ORM
   - Websockets
   - Mongoose
   - Nodemon
@@ -60,13 +60,14 @@
   - Devise 
   - Test Driven Development with RSpec
 
+
 **Databases:**
 * MySQL
 * SQLite
 * PostgreSQL
-* Firebase & Firestore
 * MongoDB
 * RealmDB
+* Firebase & Firestore
 * AWS Amplify
 
 
@@ -75,19 +76,19 @@
 * npm
 * yarn
 
+
 **ChatBots:**
 * FrontEnd
   - WhatsApp
   - Facebook Messenger
-* BackEnd
-  - NodeJS
 * NLP Services
   - SAP Conversational AI
   - DialogFlow
   - IBM Watson Assistant
 * Communication API
   - Twilio
-
+* BackEnd
+  - NodeJS
 
 **Others:**
 * Kanban, XP & Scrum
