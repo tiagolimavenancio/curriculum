@@ -92,6 +92,7 @@
 **Others:**
 * Kanban, XP & Scrum
 * Design Patterns (Gang of Four & MVC)
+* SQL & NoSQL
 * Git & GitFlow
 * Basic Principles of Graphic Design (UI, UX & HCI)
 * Digital Image Processing (OpenCV)
