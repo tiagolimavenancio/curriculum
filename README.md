@@ -32,7 +32,7 @@
   - Code Push
   - Sentry
   - Higher-Order Components
-  - Test Driven Development with Jest
+  - Test Driven Development with Jest and Enzyme
   
   
 **Front-End:**
@@ -40,11 +40,11 @@
   - Redux
   - Hooks
   - Styled Components
-  - Test Driven Development with Jest
+  - Test Driven Development with Jest and Enzyme
 * VueJS
   - Vuex
   - Vuetify
-  - Test Driven Development with Jest
+  
 
 **Back-End:**
 * NodeJS 
