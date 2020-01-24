@@ -131,19 +131,19 @@
 
 
 ## Accomplishments
-* [IntellGest Legis](https://apps.apple.com/us/app/intellgest-legis/id1478737517?ls=1) developed in IntellGest - Inteligência e Gestão Tecnológica (2019)
-* DoCondomínio developed in [Centro de Empreendedorismo da UFC (CEMP)](https://www.linkedin.com/company/cempufc/) (2018)
+* [IntellGest Legis](https://apps.apple.com/us/app/intellgest-legis/id1478737517?ls=1) developed at the IntellGest - Inteligência e Gestão Tecnológica (2019)
+* DoCondomínio developed at the [Centro de Empreendedorismo da UFC (CEMP)](https://www.linkedin.com/company/cempufc/) (2018)
 * [Web Application Dark Stories](http://dark-stories.herokuapp.com/) (2017)
-* [App Aedes em Foco](https://itunes.apple.com/br/app/aedes-em-foco-lme/id1146901883?l=en&mt=8) developed in Laboratório de Mídias Educacionais (2017)
-* [App Digital Class](https://itunes.apple.com/br/app/digital-class/id1199107757?l=en&mt=8) developed in UFC Virtual (2016)
+* [App Aedes em Foco](https://itunes.apple.com/br/app/aedes-em-foco-lme/id1146901883?l=en&mt=8) developed at the Laboratório de Mídias Educacionais (2017)
+* [App Digital Class](https://itunes.apple.com/br/app/digital-class/id1199107757?l=en&mt=8) developed at the UFC Virtual (2016)
 * [App Food Troopers](http://tribunadoceara.uol.com.br/noticias/tecnologia/cearenses-criam-aplicativo-com-informacoes-sobre-food-trucks-de-fortaleza/) (2015)
 * Game App Sky Soldiers (2015)
 * Game App Plantz (2014)
 * Game App Collapse FreeSpace (2013)
-* [App Solar Mobilis](https://itunes.apple.com/br/app/solar-mobilis/id1213025314?l=en&mt=8) developed in UFC Virtual (2012)
-* [App Semove](https://play.google.com/store/apps/details?id=com.semove) developed in UFC Virtual (2012)
-* App Translation with OCR developed in UFC Virtual (2011) 
-* App Money Connect developed in UFC Virtual (2010) 
+* [App Solar Mobilis](https://itunes.apple.com/br/app/solar-mobilis/id1213025314?l=en&mt=8) developed at the UFC Virtual (2012)
+* [App Semove](https://play.google.com/store/apps/details?id=com.semove) developed at the UFC Virtual (2012)
+* App Translation with OCR developed at the UFC Virtual (2011) 
+* App Money Connect developed at the UFC Virtual (2010) 
 
 
 ---
